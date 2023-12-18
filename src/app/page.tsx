@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div>
       <FacebookLogin
-        appId="1004083610698438"
+        appId="6899460876802337"
         onSuccess={(response) => {
           console.log("Login Success!", response);
         }}
